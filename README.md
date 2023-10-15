@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...React.js
 
 [my portfolio](https://yuji3000.github.io/dev/)
 
 <!--
+- 🔭 I’m currently working on ...
 **Yuji3000/Yuji3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
