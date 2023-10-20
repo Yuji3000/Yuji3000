@@ -1,4 +1,5 @@
 ### Hi there 👋
+![rails-badge][ruby-rails] ![ruby-badge][ruby]  ![react-badge][react] ![javascript-badge][javascript] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![fastapi-badge][fastapi] ![python-badge][python] <br>
 - 🌱 I’m currently learning ...React.js
 
 [my portfolio](https://yuji3000.github.io/dev/)
@@ -16,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=FEFEFE
+[ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=FEFEFE
+
+[HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FEFEFE
+[CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FEFEFE
+
+[react]: https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square
+[javascript]: https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
+
+[python]: https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue
+[fastapi]: https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi
