@@ -1,10 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...React.js! Project name: Rotten Tomatillos <br><br><br>
 ![rails-badge][ruby-rails] ![ruby-badge][ruby]  ![react-badge][react] ![javascript-badge][javascript] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![fastapi-badge][fastapi] ![python-badge][python] <br>
-- 🌱 I’m currently learning ...React.js! Project name: Rotten Tomatillos
-
-[my portfolio](https://yuji3000.github.io/dev/)
 
 <!--
+
+[my portfolio](https://yuji3000.github.io/dev/)
 - 🔭 I’m currently working on ...
 **Yuji3000/Yuji3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
