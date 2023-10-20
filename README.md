@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![rails-badge][ruby-rails] ![ruby-badge][ruby]  ![react-badge][react] ![javascript-badge][javascript] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![fastapi-badge][fastapi] ![python-badge][python] <br>
-- 🌱 I’m currently learning ...React.js
+- 🌱 I’m currently learning ...React.js working on a project called "Rotten Tomatillos"
 
 [my portfolio](https://yuji3000.github.io/dev/)
 
