@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working on ...React.js! Project name: __Rotten Tomatillos__ <br>
+- 🌱 I’m currently working on ...React.js! Project name: __Rancid Tomatillos__ <br>
 - Also working on the styling of __Tea Time__ a Full Stack Ruby on Rails app<br><br>
   Check back for updates!
 <br><br><br>
