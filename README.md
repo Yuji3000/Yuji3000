@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working on ...React.js! Project name: __Rancid Tomatillos__ <br>
-- Also working on __Tea Time__ a Full Stack Ruby on Rails app<br><br>
+
   Check back for updates!
 <br><br><br>
 ![rails-badge][ruby-rails] ![ruby-badge][ruby]  ![react-badge][react] ![javascript-badge][javascript] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![fastapi-badge][fastapi] ![python-badge][python] <br>
