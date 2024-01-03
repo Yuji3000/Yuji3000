@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-  Check back for updates!
+I have a background in Psychology, the restaurant world, martial arts/teaching and of course software development. Thanks for stopping by!
 <br><br><br>
 ![rails-badge][ruby-rails] ![ruby-badge][ruby]  ![react-badge][react] ![javascript-badge][javascript] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![fastapi-badge][fastapi] ![python-badge][python] <br>
 
