@@ -6,6 +6,8 @@ I have a background in
 - Sales/Flooring Industry
 - and of course software development.
 Thanks for stopping by!
+
+Don't judge a developer by their contributions. Due to my misunderstanding/configuration of git I lost many of my commits to history before fixing it properly. 
 <br><br><br>
 ![rails-badge][ruby-rails] ![ruby-badge][ruby]  ![react-badge][react] ![javascript-badge][javascript] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![fastapi-badge][fastapi] ![python-badge][python] <br>
 
