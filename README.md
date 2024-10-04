@@ -1,4 +1,5 @@
 ### Hi there 👋
+[My Portfolio](https://yuji3000.github.io/portfolio3/)<br>
 I have a background in 
 - Psychology
 - the restaurant world
