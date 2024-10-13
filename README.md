@@ -1,5 +1,4 @@
 <h2> Hello there, I'm Yuji</h2>
-<h3> I love Ruby on Rails, but also enjoy learning about other languages and technology! </h3>
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
@@ -9,7 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuji.kosa)
 
 
-I am a software engineer 
+I am a software engineer that loves crafting web applications with care! I enjoy Ruby on Rails, but also like the challenge learning about other languages and technology!
 
 </br></br>
 ## 👨‍💻 Professional Skills
@@ -36,7 +35,7 @@ I am a software engineer
 
 [![Yuji's top languages languages-dark](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&hide=python,html&hide_border=true&layout=compact&theme=tokyonight#gh-dark-mode-only&size_weight=1&count_weight=0.5)](https://github.com/yuji3000/github-readme-stats#gh-dark-mode-only)
 
-[![Yuji's top languages languages-light](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&hide=python,html&theme=tokyonight#gh-light-mode-only&size_weight=1&count_weight=0.5)](https://github.com/yuji3000/github-readme-stats#gh-light-mode-only)
+[![Yuji's top languages languages-light](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&hide=python,html&hide_border=true&theme=defaultt#gh-light-mode-only&size_weight=1&count_weight=0.5)](https://github.com/yuji3000/github-readme-stats#gh-light-mode-only)
 <br>
 
 [![Yuji's Github stats-Dark](https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/yuji3000/github-readme-stats#gh-dark-mode-only)
