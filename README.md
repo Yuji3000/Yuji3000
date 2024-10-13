@@ -33,10 +33,10 @@ I am a software engineer
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+![Yuji's top languages](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&theme=tokyonight&hide_border=true&size_weight=1&count_weight=0.5&hide=python,html) 
+<br>
+![Yuji's github stats](https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true) 
 
- <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=rank" alt="Yuji's github stats" /></a>  
- 
-<!-- <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&theme=tokyonight&hide_border=true" /></a> -->
 
 
 
