@@ -33,7 +33,9 @@ I am a software engineer
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<img align="left" alt="Yuji300's Github Stats:" src="https://github-readme-stats-9s68-yuji-kosakowskis-projects.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 
-
+| <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-yuji-kosakowskis-projects.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yuji's github stats" /></a> | <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuji3000&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
