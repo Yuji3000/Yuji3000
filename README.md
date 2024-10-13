@@ -1,4 +1,5 @@
 <h2> Hello there, I'm Yuji</h2>
+<h3> I love Ruby on Rails, but also enjoy learning about other languages and technology! </h3>
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
@@ -33,10 +34,16 @@ I am a software engineer
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Yuji's top languages](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&theme=tokyonight&hide_border=true&size_weight=1&count_weight=0.5&hide=python,html) 
-<br>
-![Yuji's github stats](https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true) 
+[![Yuji's top languages languages-dark](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&hide=python,html&hide_border=true&layout=compact&theme=tokyonight#gh-dark-mode-only&size_weight=1&count_weight=0.5)](https://github.com/yuji3000/github-readme-stats#gh-dark-mode-only)
 
+[![Yuji's top languages languages-light](https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&hide=python,html&theme=tokyonight#gh-light-mode-only&size_weight=1&count_weight=0.5)](https://github.com/yuji3000/github-readme-stats#gh-light-mode-only)
+<br>
+
+[![Yuji's Github stats-Dark](https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/yuji3000/github-readme-stats#gh-dark-mode-only)
+
+[![Yuji's Github stats-Light](https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/yuji3000/github-readme-stats#gh-light-mode-only)
+
+<!--[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
