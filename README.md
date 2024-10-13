@@ -34,7 +34,9 @@ I am a software engineer
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-| <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=rank" alt="Yuji's github stats" /></a> | <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-9s68.vercel.app/api?username=yuji3000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=rank" alt="Yuji's github stats" /></a>  
+ 
+<!-- <a href="https://github.com/yuji3000/github-readme-stats"><img align="center" src="https://github-readme-stats-9s68.vercel.app/api/top-langs/?username=yuji3000&layout=compact&theme=tokyonight&hide_border=true" /></a> -->
+
 
 
